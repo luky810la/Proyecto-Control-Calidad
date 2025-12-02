@@ -1,1 +1,3 @@
-// Registro de usuarios - Desarrollador B
+// Registro de usuarios – Desarrollador B
+console.log("Catálogo actualizado por el Desarrollador B.");
+console.log("Tercer cambio realizado por el Desarrollador B.");
