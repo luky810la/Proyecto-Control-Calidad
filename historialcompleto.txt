@@ -1,2 +1,3 @@
+* 3cea132 docs: actualizar historial y ramas
 * 53ab30c feat: archivo base para desarrolladores
 * 22f5662 Commit Inicial: Estructura basica del proyecto

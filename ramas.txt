@@ -1,4 +1,6 @@
-* develop
+  develop
+* feature/catalog
+  feature/register
   main
   remotes/origin/HEAD -> origin/main
   remotes/origin/develop
